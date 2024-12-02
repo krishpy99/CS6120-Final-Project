@@ -1,0 +1,3195 @@
+{
+  "individual_results": [
+    {
+      "question_id": 1,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When did the field of Artificial Intelligence begin?\nOptions:\n- 1940s\n- 1950s\n- 1960s\n- 1970s",
+      "predicted_answer": "1950s",
+      "actual_answer": "1950s",
+      "exact_match": 1.0,
+      "f1_score": 1.0,
+      "semantic_score": 0.0,
+      "response_time": 5.7341320514678955,
+      "resource_usage": {
+        "memory_mb": 835.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 2,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What year were transformer models first introduced?\nOptions:\n- 2015\n- 2016\n- 2017\n- 2018",
+      "predicted_answer": "2017",
+      "actual_answer": "2017",
+      "exact_match": 1.0,
+      "f1_score": 1.0,
+      "semantic_score": 0.0,
+      "response_time": 4.622497081756592,
+      "resource_usage": {
+        "memory_mb": 956.03125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 3,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which type of neural network is specifically mentioned for computer vision?\nOptions:\n- Recurrent Neural Networks\n- Convolutional Neural Networks\n- Transformer Networks\n- Feed-forward Networks",
+      "predicted_answer": "",
+      "actual_answer": "Convolutional Neural Networks",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 3.738054037094116,
+      "resource_usage": {
+        "memory_mb": 1154.09375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 4,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What mechanism do transformer models use to understand context?\nOptions:\n- Backpropagation\n- Self-attention\n- Convolution\n- Recursion",
+      "predicted_answer": "self - attention",
+      "actual_answer": "Self-attention",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.664849281311035,
+      "resource_usage": {
+        "memory_mb": 1044.671875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 5,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which technology is mentioned as potentially offering new capabilities for AI?\nOptions:\n- Blockchain\n- 5G\n- Cloud Computing\n- Quantum Computing",
+      "predicted_answer": "quantum computing",
+      "actual_answer": "Quantum Computing",
+      "exact_match": 1.0,
+      "f1_score": 1.0,
+      "semantic_score": 0.0,
+      "response_time": 4.769442081451416,
+      "resource_usage": {
+        "memory_mb": 1002.953125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 6,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which applications are mentioned for modern AI systems?\nOptions:\n- Natural Language Processing\n- Image Recognition\n- Problem Solving\n- Data Storage",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Natural Language Processing",
+        "Image Recognition",
+        "Problem Solving"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 10.822797060012817,
+      "resource_usage": {
+        "memory_mb": 869.703125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 7,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the challenges faced by AI systems?\nOptions:\n- Computational Resources\n- Energy Consumption\n- Data Bias\n- Network Speed",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Computational Resources",
+        "Energy Consumption",
+        "Data Bias"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.218821048736572,
+      "resource_usage": {
+        "memory_mb": 1089.46875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 8,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which areas use CNNs for analysis?\nOptions:\n- Object Detection\n- Face Recognition\n- Medical Images\n- Text Processing",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Object Detection",
+        "Face Recognition",
+        "Medical Images"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.898838758468628,
+      "resource_usage": {
+        "memory_mb": 1005.984375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 9,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are researchers working on improving in AI systems?\nOptions:\n- Interpretability\n- Energy Efficiency\n- Performance\n- Cost",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Interpretability",
+        "Energy Efficiency",
+        "Performance"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.067485809326172,
+      "resource_usage": {
+        "memory_mb": 794.46875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 10,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which sectors are mentioned as being influenced by AI?\nOptions:\n- Healthcare\n- Climate Change\n- Education\n- Finance",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Healthcare",
+        "Climate Change"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.771404027938843,
+      "resource_usage": {
+        "memory_mb": 836.734375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 11,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: AI began with simple ______ systems that could perform basic logical operations.",
+      "predicted_answer": "",
+      "actual_answer": "rule-based",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 3.8499398231506348,
+      "resource_usage": {
+        "memory_mb": 1137.25,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 12,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Modern AI systems utilize ______ networks and deep learning architectures.",
+      "predicted_answer": "",
+      "actual_answer": "neural",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.290522813796997,
+      "resource_usage": {
+        "memory_mb": 1223.03125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 13,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Transformer models employ ______ mechanisms to understand context.",
+      "predicted_answer": "",
+      "actual_answer": "self-attention",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.0563547611236572,
+      "resource_usage": {
+        "memory_mb": 1245.421875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 14,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: AI systems can now detect objects with ______ accuracy.",
+      "predicted_answer": "",
+      "actual_answer": "superhuman",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6465129852294922,
+      "resource_usage": {
+        "memory_mb": 1267.640625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 15,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Researchers are working on making AI systems more ______ and energy-efficient.",
+      "predicted_answer": "",
+      "actual_answer": "interpretable",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5935750007629395,
+      "resource_usage": {
+        "memory_mb": 1249.46875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 16,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: AI systems require minimal computational resources.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6206851005554199,
+      "resource_usage": {
+        "memory_mb": 1272.84375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 17,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Transformer models were introduced before 2015.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7561399936676025,
+      "resource_usage": {
+        "memory_mb": 1235.765625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 18,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: CNNs can be used in autonomous vehicles.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.6243817806243896,
+      "resource_usage": {
+        "memory_mb": 1153.265625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 19,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: AI systems are completely free from bias.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 3.728144884109497,
+      "resource_usage": {
+        "memory_mb": 1094.234375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 20,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Quantum computing is mentioned as a future technology for AI.",
+      "predicted_answer":  "false",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.6776371002197266,
+      "resource_usage": {
+        "memory_mb": 1179.703125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 21,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What is the scale at which quantum physics primarily operates?\nOptions:\n- Planetary\n- Molecular\n- Atomic and subatomic\n- Galactic",
+      "predicted_answer": "respond only with the exact text of the chosen option, nothing else. question : what is the scale at which quantum physics primarily operates? options : - planetary - molecular - atomic and subatomic - galactic artificial intelligence has evolved significantly since its inception in the 1950s. the field began with simple rule - based systems that could perform basic logical operations. modern ai systems utilize neural networks and deep learning architectures, enabling them to process natural language, recognize images, and solve complex problems. these systems learn from vast amounts of data, identifying patterns and making predictions with increasing accuracy. recent developments in transformer models have revolutionized natural language processing. these models, first introduced in 2017, employ self - attention mechanisms to understand context and relationships between words. the architecture has proven remarkably effective, leading to breakthroughs in machine translation, text generation, and question answering systems. deep learning models have also transformed computer vision applications. convolutional neural networks ( cnns ) can now detect objects, recognize faces, and analyze medical images with superhuman accuracy. these advances have practical applications in autonomous vehicles, security systems, and medical diagnostics. despite these achievements, ai systems face several challenges. they require substantial computational resources and energy consumption. additionally, issues of bias in training data can lead to unfair or discriminatory outcomes. researchers are actively working on developing more efficient architectures and addressing ethical concerns in ai deployment. the future of ai looks promising, with emerging technologies like quantum computing potentially offering new capabilities. researchers are exploring ways to make ai systems more interpretable and energy - efficient while maintaining their performance. the field continues to expand, influencing various sectors from healthcare to climate change mitigation. quantum physics, also known as quantum mechanics, is a fundamental theory in physics that describes nature at the smallest scales of energy levels of atoms and subatomic particles",
+      "actual_answer": "Atomic and subatomic",
+      "exact_match": 0.0,
+      "f1_score": 0.01923076923076923,
+      "semantic_score": 0.0,
+      "response_time": 1.2160320281982422,
+      "resource_usage": {
+        "memory_mb": 1215.9375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 22,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Who described quantum entanglement as 'spooky action at a distance'?\nOptions:\n- Bohr\n- Einstein\n- Heisenberg\n- Schr\u00f6dinger",
+      "predicted_answer": "",
+      "actual_answer": "Einstein",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.3721320629119873,
+      "resource_usage": {
+        "memory_mb": 1096.671875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 23,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What type of pattern is created in the double-slit experiment?\nOptions:\n- Diffraction\n- Interference\n- Reflection\n- Refraction",
+      "predicted_answer": "",
+      "actual_answer": "Interference",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.65735125541687,
+      "resource_usage": {
+        "memory_mb": 1194.25,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 24,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What quantum property allows qubits to exist in multiple states simultaneously?\nOptions:\n- Entanglement\n- Superposition\n- Wave-particle duality\n- Uncertainty",
+      "predicted_answer": "",
+      "actual_answer": "Superposition",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9123880863189697,
+      "resource_usage": {
+        "memory_mb": 1242.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 25,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What does the Uncertainty Principle relate to?\nOptions:\n- Energy and time\n- Position and momentum\n- Mass and velocity\n- Charge and spin",
+      "predicted_answer": "",
+      "actual_answer": "Position and momentum",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.675631046295166,
+      "resource_usage": {
+        "memory_mb": 1254.40625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 26,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which modern applications of quantum mechanics are mentioned?\nOptions:\n- Quantum computing\n- Quantum cryptography\n- Quantum sensors\n- Quantum teleportation",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Quantum computing",
+        "Quantum cryptography",
+        "Quantum sensors"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.635216236114502,
+      "resource_usage": {
+        "memory_mb": 1268.390625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 27,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What characteristics can light and matter display?\nOptions:\n- Wave properties\n- Particle properties\n- Mass properties\n- Charge properties",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Wave properties",
+        "Particle properties"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6704699993133545,
+      "resource_usage": {
+        "memory_mb": 1277.125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 28,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What aspects are affected by the Uncertainty Principle?\nOptions:\n- Position\n- Momentum\n- Time\n- Energy",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Position",
+        "Momentum"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6652050018310547,
+      "resource_usage": {
+        "memory_mb": 1251.4375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 29,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What properties make quantum cryptography secure?\nOptions:\n- Superposition\n- Entanglement\n- Wave-particle duality\n- Uncertainty",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Superposition",
+        "Entanglement"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5950491428375244,
+      "resource_usage": {
+        "memory_mb": 1255.046875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 30,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What happens when particles are entangled?\nOptions:\n- States become connected\n- Measurement affects both particles\n- Distance becomes irrelevant\n- Independent description impossible",
+      "predicted_answer": "",
+      "actual_answer": [
+        "States become connected",
+        "Measurement affects both particles",
+        "Independent description impossible"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6423130035400391,
+      "resource_usage": {
+        "memory_mb": 1261.015625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 31,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Quantum mechanics describes nature at the ______ scales of energy levels.",
+      "predicted_answer": "",
+      "actual_answer": "smallest",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.2020039558410645,
+      "resource_usage": {
+        "memory_mb": 1178.109375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 32,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The ______ experiment demonstrated wave-particle duality.",
+      "predicted_answer": "",
+      "actual_answer": "double-slit",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.437342882156372,
+      "resource_usage": {
+        "memory_mb": 1201.34375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 33,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Quantum computers use ______ instead of classical bits.",
+      "predicted_answer": "",
+      "actual_answer": "qubits",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.493359088897705,
+      "resource_usage": {
+        "memory_mb": 1253.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 34,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The ______ Principle relates position and momentum uncertainty.",
+      "predicted_answer": "",
+      "actual_answer": "Heisenberg",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6381709575653076,
+      "resource_usage": {
+        "memory_mb": 1259.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 35,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Quantum cryptography creates theoretically ______ encryption systems.",
+      "predicted_answer": "",
+      "actual_answer": "unbreakable",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6347250938415527,
+      "resource_usage": {
+        "memory_mb": 1248.984375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 36,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Quantum particles can exist in multiple states simultaneously.",
+      "predicted_answer":  "true",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6332221031188965,
+      "resource_usage": {
+        "memory_mb": 1256.484375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 37,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The Uncertainty Principle is due to equipment limitations.",
+      "predicted_answer":  "false",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5995578765869141,
+      "resource_usage": {
+        "memory_mb": 1254.4375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 38,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Entangled particles must be close to each other to maintain their connection.",
+      "predicted_answer":  "false",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6187300682067871,
+      "resource_usage": {
+        "memory_mb": 1256.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 39,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Light can only behave as a wave, not as a particle.",
+      "predicted_answer":  "false",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5969781875610352,
+      "resource_usage": {
+        "memory_mb": 1265.734375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 40,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Quantum computers can solve some problems faster than classical computers.",
+      "predicted_answer":  "true",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6013150215148926,
+      "resource_usage": {
+        "memory_mb": 1269.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 41,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What was the atmospheric CO2 concentration before the Industrial Revolution?\nOptions:\n- 180 ppm\n- 280 ppm\n- 380 ppm\n- 410 ppm",
+      "predicted_answer": "",
+      "actual_answer": "280 ppm",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6194188594818115,
+      "resource_usage": {
+        "memory_mb": 1263.75,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 42,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What temperature limit did the Paris Agreement set?\nOptions:\n- 1 degree Celsius\n- 1.5 degrees Celsius\n- 2 degrees Celsius\n- Well below 2 degrees Celsius",
+      "predicted_answer": "",
+      "actual_answer": "Well below 2 degrees Celsius",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.588921070098877,
+      "resource_usage": {
+        "memory_mb": 1265.078125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 43,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which organization synthesizes global climate research?\nOptions:\n- WHO\n- IPCC\n- UNESCO\n- UNEP",
+      "predicted_answer": "",
+      "actual_answer": "IPCC",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6204609870910645,
+      "resource_usage": {
+        "memory_mb": 1277.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 44,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When was the Paris Agreement signed?\nOptions:\n- 2012\n- 2014\n- 2015\n- 2016",
+      "predicted_answer": "",
+      "actual_answer": "2015",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6505820751190186,
+      "resource_usage": {
+        "memory_mb": 1256.65625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 45,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What is a consequence of increased CO2 in oceans?\nOptions:\n- Warming\n- Acidification\n- Evaporation\n- Crystallization",
+      "predicted_answer": "",
+      "actual_answer": "Acidification",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5844697952270508,
+      "resource_usage": {
+        "memory_mb": 1273.21875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 46,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which extreme weather events are mentioned as becoming more frequent?\nOptions:\n- Hurricanes\n- Droughts\n- Heat waves\n- Tornadoes",
+      "predicted_answer": "hurricanes - droughts - heat waves - tornadoes",
+      "actual_answer": [
+        "Hurricanes",
+        "Droughts",
+        "Heat waves"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6325259208679199,
+      "resource_usage": {
+        "memory_mb": 1272.640625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 47,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What methods do climate scientists use to study climate change?\nOptions:\n- Satellite observations\n- Ice core analysis\n- Tree ring analysis\n- Ocean sampling",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Satellite observations",
+        "Ice core analysis"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6148538589477539,
+      "resource_usage": {
+        "memory_mb": 1257.234375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 48,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which mitigation strategies are mentioned?\nOptions:\n- Renewable energy\n- Energy efficiency\n- Carbon capture\n- Nuclear power",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Renewable energy",
+        "Energy efficiency",
+        "Carbon capture"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5884957313537598,
+      "resource_usage": {
+        "memory_mb": 1265.0,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 49,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What nature-based solutions are mentioned?\nOptions:\n- Reforestation\n- Wetland restoration\n- Urban gardening\n- Desert reclamation",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Reforestation",
+        "Wetland restoration"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6075420379638672,
+      "resource_usage": {
+        "memory_mb": 1255.34375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 50,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which adaptation strategies are discussed?\nOptions:\n- Resilient infrastructure\n- Water management\n- Biodiversity protection\n- Urban planning",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Resilient infrastructure",
+        "Water management",
+        "Biodiversity protection"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6142048835754395,
+      "resource_usage": {
+        "memory_mb": 1264.53125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 51,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The Earth's climate system is undergoing ______ changes.",
+      "predicted_answer": "",
+      "actual_answer": "unprecedented",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5997898578643799,
+      "resource_usage": {
+        "memory_mb": 1271.890625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 52,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Rising temperatures have accelerated ______ ice melt.",
+      "predicted_answer": "",
+      "actual_answer": "polar",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5816080570220947,
+      "resource_usage": {
+        "memory_mb": 1273.59375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 53,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Many countries aim to achieve carbon ______ by mid-century.",
+      "predicted_answer": "",
+      "actual_answer": "neutrality",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6053822040557861,
+      "resource_usage": {
+        "memory_mb": 1258.578125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 54,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Climate change impacts are far-reaching and ______.",
+      "predicted_answer": "",
+      "actual_answer": "interconnected",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6248199939727783,
+      "resource_usage": {
+        "memory_mb": 1267.0625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 55,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ solutions offer dual benefits of carbon sequestration and ecosystem protection.",
+      "predicted_answer": "",
+      "actual_answer": "Nature-based",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.610511064529419,
+      "resource_usage": {
+        "memory_mb": 1265.46875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 56,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Climate change is primarily driven by natural processes.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5888118743896484,
+      "resource_usage": {
+        "memory_mb": 1287.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 57,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The Paris Agreement was signed in 2015.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6000442504882812,
+      "resource_usage": {
+        "memory_mb": 1268.21875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 58,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: All climate change impacts can be prevented with current technology.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6188759803771973,
+      "resource_usage": {
+        "memory_mb": 1251.265625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 59,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Ocean acidification benefits marine ecosystems.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.792769193649292,
+      "resource_usage": {
+        "memory_mb": 1268.984375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 60,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Adaptation strategies are necessary alongside mitigation efforts.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6348230838775635,
+      "resource_usage": {
+        "memory_mb": 1252.84375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 61,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: How many neurons does the human brain contain?\nOptions:\n- 76 billion\n- 86 billion\n- 96 billion\n- 106 billion",
+      "predicted_answer": "",
+      "actual_answer": "86 billion",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5704829692840576,
+      "resource_usage": {
+        "memory_mb": 1272.5625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 62,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What percentage of the body's energy does the brain use?\nOptions:\n- 10%\n- 15%\n- 20%\n- 25%",
+      "predicted_answer": "",
+      "actual_answer": "20%",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.601140022277832,
+      "resource_usage": {
+        "memory_mb": 1278.09375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 63,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which lobe processes visual information?\nOptions:\n- Frontal\n- Parietal\n- Temporal\n- Occipital",
+      "predicted_answer": "",
+      "actual_answer": "Occipital",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.653001070022583,
+      "resource_usage": {
+        "memory_mb": 1248.0,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 64,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What percentage of body mass does the brain comprise?\nOptions:\n- 1%\n- 2%\n- 3%\n- 4%",
+      "predicted_answer": "",
+      "actual_answer": "2%",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7459697723388672,
+      "resource_usage": {
+        "memory_mb": 1248.453125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 65,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which structure is crucial for memory formation and spatial navigation?\nOptions:\n- Amygdala\n- Hypothalamus\n- Hippocampus\n- Brainstem",
+      "predicted_answer": "amygdala - hypothalamus - hippocampus - brainstem",
+      "actual_answer": "Hippocampus",
+      "exact_match": 0.0,
+      "f1_score": 0.25,
+      "semantic_score": 0.0,
+      "response_time": 0.6922299861907959,
+      "resource_usage": {
+        "memory_mb": 1247.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 66,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which imaging techniques are mentioned for studying brain function?\nOptions:\n- fMRI\n- PET\n- CT\n- X-ray",
+      "predicted_answer": "",
+      "actual_answer": [
+        "fMRI",
+        "PET"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6422641277313232,
+      "resource_usage": {
+        "memory_mb": 1257.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 67,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What functions does the brainstem control?\nOptions:\n- Breathing\n- Heart rate\n- Blood pressure\n- Memory",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Breathing",
+        "Heart rate",
+        "Blood pressure"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.8266329765319824,
+      "resource_usage": {
+        "memory_mb": 1243.34375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 68,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the four lobes of the cerebral cortex?\nOptions:\n- Frontal\n- Parietal\n- Temporal\n- Occipital",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Frontal",
+        "Parietal",
+        "Temporal",
+        "Occipital"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.655937910079956,
+      "resource_usage": {
+        "memory_mb": 1265.5,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 69,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What does the hypothalamus regulate?\nOptions:\n- Hunger\n- Thirst\n- Temperature\n- Memory",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Hunger",
+        "Thirst",
+        "Temperature"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.688758134841919,
+      "resource_usage": {
+        "memory_mb": 1261.171875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 70,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What capabilities does neuroplasticity enable?\nOptions:\n- Learning\n- Memory formation\n- Injury recovery\n- Speech",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Learning",
+        "Memory formation",
+        "Injury recovery"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6372690200805664,
+      "resource_usage": {
+        "memory_mb": 1266.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 71,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The brain contains approximately ______ billion neurons.",
+      "predicted_answer": "",
+      "actual_answer": "86",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6439909934997559,
+      "resource_usage": {
+        "memory_mb": 1265.296875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 72,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The ______ is responsible for emotional processing and fear responses.",
+      "predicted_answer": "",
+      "actual_answer": "amygdala",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.642441987991333,
+      "resource_usage": {
+        "memory_mb": 1251.34375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 73,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The brain's outer layer is called the ______ cortex.",
+      "predicted_answer": "",
+      "actual_answer": "cerebral",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6402499675750732,
+      "resource_usage": {
+        "memory_mb": 1251.65625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 74,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The brain demonstrates remarkable ______, allowing it to form new neural connections.",
+      "predicted_answer": "",
+      "actual_answer": "plasticity",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6483540534973145,
+      "resource_usage": {
+        "memory_mb": 1260.453125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 75,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The ______ connects the brain to the spinal cord.",
+      "predicted_answer": "",
+      "actual_answer": "brainstem",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6609368324279785,
+      "resource_usage": {
+        "memory_mb": 1255.5,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 76,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The brain uses 20% of the body's energy.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7197208404541016,
+      "resource_usage": {
+        "memory_mb": 1246.0,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 77,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The brain cannot form new neural connections in adulthood.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7031102180480957,
+      "resource_usage": {
+        "memory_mb": 1248.125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 78,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The temporal lobe processes visual information.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6775088310241699,
+      "resource_usage": {
+        "memory_mb": 1256.5,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 79,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The brainstem controls breathing and heart rate.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6495261192321777,
+      "resource_usage": {
+        "memory_mb": 1240.03125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 80,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The hippocampus is responsible for fear responses.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.8909380435943604,
+      "resource_usage": {
+        "memory_mb": 1223.0625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 81,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When was ENIAC developed?\nOptions:\n- 1940\n- 1945\n- 1950\n- 1955",
+      "predicted_answer": "",
+      "actual_answer": "1945",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.0481278896331787,
+      "resource_usage": {
+        "memory_mb": 1247.171875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 82,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What is the current manufacturing process scale for processors?\nOptions:\n- 5-nanometer\n- 4-nanometer\n- 3-nanometer\n- 2-nanometer",
+      "predicted_answer": "",
+      "actual_answer": "3-nanometer",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7939469814300537,
+      "resource_usage": {
+        "memory_mb": 1251.65625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 83,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When did Gordon Moore propose his famous law?\nOptions:\n- 1960\n- 1965\n- 1970\n- 1975",
+      "predicted_answer": "",
+      "actual_answer": "1965",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7063901424407959,
+      "resource_usage": {
+        "memory_mb": 1241.71875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 84,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What type of computing processes data closer to its source?\nOptions:\n- Cloud computing\n- Edge computing\n- Quantum computing\n- Neuromorphic computing",
+      "predicted_answer": "",
+      "actual_answer": "Edge computing",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6818599700927734,
+      "resource_usage": {
+        "memory_mb": 1263.984375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 85,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What did the first electronic computer use?\nOptions:\n- Transistors\n- Vacuum tubes\n- Integrated circuits\n- Microprocessors",
+      "predicted_answer": "",
+      "actual_answer": "Vacuum tubes",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6690731048583984,
+      "resource_usage": {
+        "memory_mb": 1248.109375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 86,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which quantum phenomena are mentioned for quantum computing?\nOptions:\n- Superposition\n- Entanglement\n- Interference\n- Tunneling",
+      "predicted_answer": "superposition - entanglement - interference - tunneling",
+      "actual_answer": [
+        "Superposition",
+        "Entanglement"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6547200679779053,
+      "resource_usage": {
+        "memory_mb": 1258.0625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 87,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the benefits of edge computing?\nOptions:\n- Reduced latency\n- Reduced bandwidth usage\n- Increased security\n- Lower cost",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Reduced latency",
+        "Reduced bandwidth usage"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6793899536132812,
+      "resource_usage": {
+        "memory_mb": 1252.75,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 88,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What types of cybersecurity threats are mentioned?\nOptions:\n- Viruses\n- Ransomware\n- State-sponsored attacks\n- Phishing",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Viruses",
+        "Ransomware",
+        "State-sponsored attacks"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6479930877685547,
+      "resource_usage": {
+        "memory_mb": 1257.078125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 89,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What has cloud computing enabled?\nOptions:\n- Big data analytics\n- Artificial intelligence\n- Machine learning\n- Web browsing",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Big data analytics",
+        "Artificial intelligence",
+        "Machine learning"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6687240600585938,
+      "resource_usage": {
+        "memory_mb": 1251.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 90,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What security measures are mentioned?\nOptions:\n- Encryption technologies\n- Secure protocols\n- Hardware security\n- Firewalls",
+      "predicted_answer": "encryption technologies - secure protocols - hardware security - firewalls",
+      "actual_answer": [
+        "Encryption technologies",
+        "Secure protocols",
+        "Hardware security"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6550662517547607,
+      "resource_usage": {
+        "memory_mb": 1269.328125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 91,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Moore's Law predicts transistor count doubling every ______ years.",
+      "predicted_answer": "",
+      "actual_answer": "two",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6430559158325195,
+      "resource_usage": {
+        "memory_mb": 1265.859375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 92,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ computing aims to mimic the brain's neural architecture.",
+      "predicted_answer": "",
+      "actual_answer": "Neuromorphic",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6098368167877197,
+      "resource_usage": {
+        "memory_mb": 1272.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 93,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ENIAC filled an entire ______ when it was built.",
+      "predicted_answer": "",
+      "actual_answer": "room",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5705161094665527,
+      "resource_usage": {
+        "memory_mb": 1288.140625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 94,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Modern processors contain ______ of nanoscale transistors.",
+      "predicted_answer": "",
+      "actual_answer": "billions",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6242921352386475,
+      "resource_usage": {
+        "memory_mb": 1266.421875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 95,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ computing has revolutionized data storage and processing.",
+      "predicted_answer": "",
+      "actual_answer": "Cloud",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.5945241451263428,
+      "resource_usage": {
+        "memory_mb": 1260.828125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 96,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: ENIAC was developed in 1945.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6503381729125977,
+      "resource_usage": {
+        "memory_mb": 1272.890625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 97,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Edge computing increases network latency.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6160509586334229,
+      "resource_usage": {
+        "memory_mb": 1264.640625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 98,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Quantum computers use superposition and entanglement.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6145939826965332,
+      "resource_usage": {
+        "memory_mb": 1259.53125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 99,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Modern processors use vacuum tubes.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7297921180725098,
+      "resource_usage": {
+        "memory_mb": 1234.671875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 100,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Cloud computing requires local hardware for all processing.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.785947322845459,
+      "resource_usage": {
+        "memory_mb": 1255.5625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 101,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What are the two main components of the immune system?\nOptions:\n- Cellular and humoral\n- Innate and adaptive\n- Primary and secondary\n- Active and passive",
+      "predicted_answer": "cellular and humoral",
+      "actual_answer": "Innate and adaptive",
+      "exact_match": 0.0,
+      "f1_score": 0.3333333333333333,
+      "semantic_score": 0.0,
+      "response_time": 0.652885913848877,
+      "resource_usage": {
+        "memory_mb": 1265.640625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 102,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which cells produce antibodies?\nOptions:\n- T cells\n- B cells\n- Natural killer cells\n- Macrophages",
+      "predicted_answer": "",
+      "actual_answer": "B cells",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7871410846710205,
+      "resource_usage": {
+        "memory_mb": 1252.546875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 103,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What is a key feature of innate immunity?\nOptions:\n- Antibody production\n- Inflammatory response\n- Memory formation\n- Specific targeting",
+      "predicted_answer": "antibody production - inflammatory response - memory formation - specific targeting",
+      "actual_answer": "Inflammatory response",
+      "exact_match": 0.0,
+      "f1_score": 0.3076923076923077,
+      "semantic_score": 0.0,
+      "response_time": 0.956671953201294,
+      "resource_usage": {
+        "memory_mb": 1234.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 104,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which system provides immediate but non-specific defense?\nOptions:\n- Adaptive immune system\n- Innate immune system\n- Lymphatic system\n- Endocrine system",
+      "predicted_answer": "",
+      "actual_answer": "Innate immune system",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9360389709472656,
+      "resource_usage": {
+        "memory_mb": 1255.015625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 105,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What type of vaccine instructs cells to produce viral proteins?\nOptions:\n- Inactivated vaccines\n- Live attenuated vaccines\n- mRNA vaccines\n- Subunit vaccines",
+      "predicted_answer": "",
+      "actual_answer": "mRNA vaccines",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6943111419677734,
+      "resource_usage": {
+        "memory_mb": 1259.765625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 106,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which cells are part of the innate immune system?\nOptions:\n- Neutrophils\n- Macrophages\n- Natural killer cells\n- B cells",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Neutrophils",
+        "Macrophages",
+        "Natural killer cells"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7628967761993408,
+      "resource_usage": {
+        "memory_mb": 1254.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 107,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are physical barriers of the immune system?\nOptions:\n- Skin\n- Mucous membranes\n- Blood vessels\n- Bones",
+      "predicted_answer": "skin - mucous membranes - blood vessels - bones",
+      "actual_answer": [
+        "Skin",
+        "Mucous membranes"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6781110763549805,
+      "resource_usage": {
+        "memory_mb": 1259.421875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 108,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the types of immune system disorders mentioned?\nOptions:\n- Autoimmune diseases\n- Immunodeficiencies\n- Allergies\n- Cancer",
+      "predicted_answer": "format your response as a comma - separated list of the exact option texts, without any additional words or punctuation. question : what are the types of immune system disorders mentioned? options : - autoimmune diseases - immunodeficiencies - allergies - cancer",
+      "actual_answer": [
+        "Autoimmune diseases",
+        "Immunodeficiencies"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6736838817596436,
+      "resource_usage": {
+        "memory_mb": 1263.828125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 109,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are traditional vaccine approaches?\nOptions:\n- Weakened pathogens\n- Inactivated pathogens\n- Synthetic proteins\n- Genetic material",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Weakened pathogens",
+        "Inactivated pathogens"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6278817653656006,
+      "resource_usage": {
+        "memory_mb": 1270.6875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 110,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What conditions can immunotherapies treat?\nOptions:\n- Allergies\n- Cancer\n- Autoimmune diseases\n- Infections",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Allergies",
+        "Cancer"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6348857879638672,
+      "resource_usage": {
+        "memory_mb": 1270.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 111,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The ______ immune system provides immediate but non-specific defense.",
+      "predicted_answer": "",
+      "actual_answer": "innate",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.666795015335083,
+      "resource_usage": {
+        "memory_mb": 1257.96875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 112,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ cells are created after initial exposure to a pathogen.",
+      "predicted_answer": "",
+      "actual_answer": "Memory",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6556820869445801,
+      "resource_usage": {
+        "memory_mb": 1264.671875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 113,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ cells directly attack infected cells and regulate immune responses.",
+      "predicted_answer": "",
+      "actual_answer": "T",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7367019653320312,
+      "resource_usage": {
+        "memory_mb": 1254.765625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 114,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The inflammatory response helps contain infections through increased ______ flow.",
+      "predicted_answer": "",
+      "actual_answer": "blood",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6877181529998779,
+      "resource_usage": {
+        "memory_mb": 1261.296875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 115,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ diseases occur when the body attacks its own tissues.",
+      "predicted_answer": "",
+      "actual_answer": "Autoimmune",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.700808048248291,
+      "resource_usage": {
+        "memory_mb": 1273.671875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 116,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: B cells produce antibodies specific to particular pathogens.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6854641437530518,
+      "resource_usage": {
+        "memory_mb": 1252.046875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 117,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The adaptive immune system evolved before the innate immune system.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7601039409637451,
+      "resource_usage": {
+        "memory_mb": 1252.765625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 118,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Vaccines can only use weakened or inactivated pathogens.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7469496726989746,
+      "resource_usage": {
+        "memory_mb": 1253.84375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 119,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Memory cells enable faster responses to subsequent pathogen encounters.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7140893936157227,
+      "resource_usage": {
+        "memory_mb": 1259.390625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 120,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Immunotherapies can only suppress immune responses.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.6890380382537842,
+      "resource_usage": {
+        "memory_mb": 1257.078125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 121,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When was the first human spaceflight?\nOptions:\n- 1957\n- 1961\n- 1969\n- 1975",
+      "predicted_answer": "",
+      "actual_answer": "1961",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7501671314239502,
+      "resource_usage": {
+        "memory_mb": 1252.25,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 122,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: At what altitude does the ISS orbit Earth?\nOptions:\n- 300 kilometers\n- 400 kilometers\n- 500 kilometers\n- 600 kilometers",
+      "predicted_answer": "",
+      "actual_answer": "400 kilometers",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7521741390228271,
+      "resource_usage": {
+        "memory_mb": 1263.953125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 123,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: How many orbits does the ISS complete per day?\nOptions:\n- 12.5\n- 13.5\n- 14.5\n- 15.5",
+      "predicted_answer": "",
+      "actual_answer": "15.5",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7246589660644531,
+      "resource_usage": {
+        "memory_mb": 1245.4375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 124,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Since when has the ISS been continuously occupied?\nOptions:\n- 1998\n- 1999\n- 2000\n- 2001",
+      "predicted_answer": "",
+      "actual_answer": "2000",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.739922046661377,
+      "resource_usage": {
+        "memory_mb": 1262.84375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 125,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which rover is mentioned as studying Mars?\nOptions:\n- Curiosity\n- Opportunity\n- Perseverance\n- Spirit",
+      "predicted_answer": "",
+      "actual_answer": "Perseverance",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7248146533966064,
+      "resource_usage": {
+        "memory_mb": 1251.984375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 126,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which private companies are mentioned in space exploration?\nOptions:\n- SpaceX\n- Blue Origin\n- Virgin Galactic\n- Boeing",
+      "predicted_answer": "spacex - blue origin - virgin galactic - boeing",
+      "actual_answer": [
+        "SpaceX",
+        "Blue Origin",
+        "Virgin Galactic"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7197051048278809,
+      "resource_usage": {
+        "memory_mb": 1264.40625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 127,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What challenges are mentioned for Mars missions?\nOptions:\n- Radiation protection\n- Resource utilization\n- Psychological effects\n- Cost",
+      "predicted_answer": "format your response as a comma - separated list of the exact option texts, without any additional words or punctuation. question : what challenges are mentioned for mars missions? options : - radiation protection - resource utilization - psychological effects - cost",
+      "actual_answer": [
+        "Radiation protection",
+        "Resource utilization",
+        "Psychological effects"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7064149379730225,
+      "resource_usage": {
+        "memory_mb": 1260.234375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 128,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which space telescopes are mentioned?\nOptions:\n- Hubble\n- James Webb\n- Spitzer\n- Chandra",
+      "predicted_answer": "hubble - james webb - spitzer - chandra",
+      "actual_answer": [
+        "Hubble",
+        "James Webb"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7657101154327393,
+      "resource_usage": {
+        "memory_mb": 1267.875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 129,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What Earth applications of space technology are mentioned?\nOptions:\n- Satellite communications\n- GPS\n- Weather forecasting\n- Internet",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Satellite communications",
+        "GPS",
+        "Weather forecasting"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7732880115509033,
+      "resource_usage": {
+        "memory_mb": 1263.0625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 130,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What advanced propulsion technologies are mentioned?\nOptions:\n- Ion engines\n- Nuclear propulsion\n- Chemical rockets\n- Solar sails",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Ion engines",
+        "Nuclear propulsion"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.7481667995452881,
+      "resource_usage": {
+        "memory_mb": 1259.453125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 131,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ was the first human to orbit Earth.",
+      "predicted_answer": "",
+      "actual_answer": "Yuri Gagarin",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.8088109493255615,
+      "resource_usage": {
+        "memory_mb": 1248.15625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 132,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The ISS serves as humanity's primary ______ research laboratory.",
+      "predicted_answer": "",
+      "actual_answer": "orbital",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.8881018161773682,
+      "resource_usage": {
+        "memory_mb": 1240.15625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 133,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Space telescopes provide views without ______ interference.",
+      "predicted_answer": "",
+      "actual_answer": "atmospheric",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.7366347312927246,
+      "resource_usage": {
+        "memory_mb": 1161.984375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 134,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Modern rockets are ______, reducing launch costs.",
+      "predicted_answer": "",
+      "actual_answer": "reusable",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.7937901020050049,
+      "resource_usage": {
+        "memory_mb": 1224.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 135,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ has become a central focus of space agencies worldwide.",
+      "predicted_answer": "",
+      "actual_answer": "Mars exploration",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.110532283782959,
+      "resource_usage": {
+        "memory_mb": 1241.4375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 136,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The ISS orbits Earth at 400 kilometers altitude.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.1517229080200195,
+      "resource_usage": {
+        "memory_mb": 1174.5,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 137,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Space exploration is still exclusively conducted by governments.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.7322051525115967,
+      "resource_usage": {
+        "memory_mb": 1214.3125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 138,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The Perseverance rover is exploring Mars.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.0035290718078613,
+      "resource_usage": {
+        "memory_mb": 1244.359375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 139,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Space telescopes are affected by atmospheric interference.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.89115309715271,
+      "resource_usage": {
+        "memory_mb": 1257.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 140,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: GPS is an application of space technology.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.8465001583099365,
+      "resource_usage": {
+        "memory_mb": 1249.453125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 141,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When was the World Wide Web developed?\nOptions:\n- 1985\n- 1987\n- 1989\n- 1991",
+      "predicted_answer": "",
+      "actual_answer": "1989",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9132537841796875,
+      "resource_usage": {
+        "memory_mb": 1245.78125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 142,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Who developed the World Wide Web?\nOptions:\n- Steve Jobs\n- Bill Gates\n- Tim Berners-Lee\n- Vint Cerf",
+      "predicted_answer": "",
+      "actual_answer": "Tim Berners-Lee",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.8767039775848389,
+      "resource_usage": {
+        "memory_mb": 1249.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 143,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Where was the World Wide Web developed?\nOptions:\n- MIT\n- CERN\n- Stanford\n- Berkeley",
+      "predicted_answer": "",
+      "actual_answer": "CERN",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9255819320678711,
+      "resource_usage": {
+        "memory_mb": 1273.40625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 144,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What was the Internet's predecessor called?\nOptions:\n- MILNET\n- ARPANET\n- NSFNET\n- CSNET",
+      "predicted_answer": "milnet - arpanet - nsfnet - csnet",
+      "actual_answer": "ARPANET",
+      "exact_match": 0.0,
+      "f1_score": 0.25,
+      "semantic_score": 0.0,
+      "response_time": 0.9991443157196045,
+      "resource_usage": {
+        "memory_mb": 1242.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 145,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What system translates website addresses to IP addresses?\nOptions:\n- TCP/IP\n- HTTP\n- DNS\n- FTP",
+      "predicted_answer": "",
+      "actual_answer": "DNS",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.033942699432373,
+      "resource_usage": {
+        "memory_mb": 1243.0,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 146,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: Which web development frameworks are mentioned?\nOptions:\n- React\n- Angular\n- Vue\n- Django",
+      "predicted_answer": "format your response as a comma - separated list of the exact option texts, without any additional words or punctuation. question : which web development frameworks are mentioned? options : - react - angular - vue - django",
+      "actual_answer": [
+        "React",
+        "Angular"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.1472070217132568,
+      "resource_usage": {
+        "memory_mb": 1232.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 147,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What cybersecurity threats are mentioned?\nOptions:\n- Malware\n- Phishing\n- Data breaches\n- Spam",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Malware",
+        "Phishing",
+        "Data breaches"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.0338549613952637,
+      "resource_usage": {
+        "memory_mb": 1214.171875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 148,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What emerging technologies are mentioned?\nOptions:\n- 5G networks\n- IoT devices\n- Blockchain\n- AI",
+      "predicted_answer": "",
+      "actual_answer": [
+        "5G networks",
+        "IoT devices",
+        "Blockchain"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.4190199375152588,
+      "resource_usage": {
+        "memory_mb": 1231.578125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 149,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What components make up Internet infrastructure?\nOptions:\n- Fiber optic cables\n- Satellites\n- Routing equipment\n- Computers",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Fiber optic cables",
+        "Satellites",
+        "Routing equipment"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.0658769607543945,
+      "resource_usage": {
+        "memory_mb": 1247.015625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 150,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What challenges does the Internet face?\nOptions:\n- Digital divide\n- Net neutrality\n- Cybersecurity\n- Cost",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Digital divide",
+        "Net neutrality",
+        "Cybersecurity"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9587969779968262,
+      "resource_usage": {
+        "memory_mb": 1256.40625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 151,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The Internet became widespread in the ______.",
+      "predicted_answer": "",
+      "actual_answer": "1990s",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.3083982467651367,
+      "resource_usage": {
+        "memory_mb": 1207.46875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 152,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ protect data transmission on the Internet.",
+      "predicted_answer": "",
+      "actual_answer": "Encryption protocols",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.8699636459350586,
+      "resource_usage": {
+        "memory_mb": 1183.09375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 153,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ distribute data globally to reduce latency.",
+      "predicted_answer": "",
+      "actual_answer": "CDNs",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.892759084701538,
+      "resource_usage": {
+        "memory_mb": 1208.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 154,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: The Internet uses the ______ protocol suite.",
+      "predicted_answer": "",
+      "actual_answer": "TCP/IP",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.2035279273986816,
+      "resource_usage": {
+        "memory_mb": 1243.640625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 155,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ enable integration between different services.",
+      "predicted_answer": "",
+      "actual_answer": "APIs",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9369909763336182,
+      "resource_usage": {
+        "memory_mb": 1270.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 156,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The Internet began as a U.S. Department of Defense project.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.022500991821289,
+      "resource_usage": {
+        "memory_mb": 1241.5,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 157,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Modern websites only use static HTML pages.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.0415868759155273,
+      "resource_usage": {
+        "memory_mb": 1256.484375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 158,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: HTTPS is an encryption protocol.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.103956937789917,
+      "resource_usage": {
+        "memory_mb": 1247.25,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 159,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: The digital divide is no longer a concern.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.1641371250152588,
+      "resource_usage": {
+        "memory_mb": 1242.046875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 160,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: CDNs increase website latency.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.0774447917938232,
+      "resource_usage": {
+        "memory_mb": 1257.0625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 161,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: By how much has the cost of solar panels dropped since 2010?\nOptions:\n- 60%\n- 70%\n- 80%\n- 90%",
+      "predicted_answer": "",
+      "actual_answer": "80%",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.2361867427825928,
+      "resource_usage": {
+        "memory_mb": 1234.5625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 162,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What is the typical efficiency rate of modern solar panels?\nOptions:\n- Above 10%\n- Above 15%\n- Above 20%\n- Above 25%",
+      "predicted_answer": "",
+      "actual_answer": "Above 20%",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.398468017578125,
+      "resource_usage": {
+        "memory_mb": 1102.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 163,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What height can modern wind turbines reach?\nOptions:\n- 50 meters\n- 100 meters\n- 150 meters\n- 200 meters",
+      "predicted_answer": "",
+      "actual_answer": "150 meters",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.020673990249634,
+      "resource_usage": {
+        "memory_mb": 1226.265625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 164,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which renewable energy source is currently the largest globally?\nOptions:\n- Solar\n- Wind\n- Hydroelectric\n- Geothermal",
+      "predicted_answer": "",
+      "actual_answer": "Hydroelectric",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.4886562824249268,
+      "resource_usage": {
+        "memory_mb": 1254.65625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 165,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What makes offshore wind farms increasingly popular?\nOptions:\n- Lower costs\n- Easier maintenance\n- Stronger winds\n- Less space required",
+      "predicted_answer": "",
+      "actual_answer": "Stronger winds",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.98691725730896,
+      "resource_usage": {
+        "memory_mb": 1267.15625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 166,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What types of renewable energy are mentioned?\nOptions:\n- Solar\n- Wind\n- Hydroelectric\n- Nuclear",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Solar",
+        "Wind",
+        "Hydroelectric"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.9658768177032471,
+      "resource_usage": {
+        "memory_mb": 1257.109375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 167,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What challenges does renewable energy face?\nOptions:\n- Grid integration\n- Energy storage\n- Infrastructure costs\n- Maintenance",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Grid integration",
+        "Energy storage",
+        "Infrastructure costs"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 0.949005126953125,
+      "resource_usage": {
+        "memory_mb": 1258.890625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 168,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What types of hydroelectric systems are mentioned?\nOptions:\n- Traditional dams\n- Run-of-river\n- Pumped storage\n- Tidal",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Traditional dams",
+        "Run-of-river",
+        "Pumped storage"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 6.067032814025879,
+      "resource_usage": {
+        "memory_mb": 329.21875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 169,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What helps integrate variable wind power into the grid?\nOptions:\n- Smart grid technologies\n- Weather forecasting\n- Energy storage\n- Backup generators",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Smart grid technologies",
+        "Weather forecasting"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.769843101501465,
+      "resource_usage": {
+        "memory_mb": 876.0,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 170,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What factors are accelerating renewable energy adoption?\nOptions:\n- Technological improvements\n- Declining costs\n- Supportive policies\n- Public demand",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Technological improvements",
+        "Declining costs",
+        "Supportive policies"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.23195219039917,
+      "resource_usage": {
+        "memory_mb": 964.734375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 171,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Solar energy harnesses the sun's ______ through photovoltaic cells.",
+      "predicted_answer": "",
+      "actual_answer": "radiation",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.257912874221802,
+      "resource_usage": {
+        "memory_mb": 875.25,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 172,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ help address solar power's intermittency.",
+      "predicted_answer": "",
+      "actual_answer": "Energy storage solutions",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.365651845932007,
+      "resource_usage": {
+        "memory_mb": 882.40625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 173,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Wind turbines can generate several ______ of power each.",
+      "predicted_answer": "",
+      "actual_answer": "megawatts",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 11.657662391662598,
+      "resource_usage": {
+        "memory_mb": 249.9375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 174,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Traditional hydroelectric ______ can impact ecosystems.",
+      "predicted_answer": "",
+      "actual_answer": "dams",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 7.795541048049927,
+      "resource_usage": {
+        "memory_mb": 542.3125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 175,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ systems combine multiple renewable sources with storage solutions.",
+      "predicted_answer": "",
+      "actual_answer": "Hybrid",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 7.8695900440216064,
+      "resource_usage": {
+        "memory_mb": 523.96875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 176,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Solar panel costs have increased since 2010.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 8.657420873641968,
+      "resource_usage": {
+        "memory_mb": 632.171875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 177,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Offshore wind farms have weaker wind patterns than onshore.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 8.047954797744751,
+      "resource_usage": {
+        "memory_mb": 764.890625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 178,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Hydroelectric power is currently the largest renewable energy source.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 6.171244144439697,
+      "resource_usage": {
+        "memory_mb": 904.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 179,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Run-of-river systems are more environmentally friendly than traditional dams.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.221213102340698,
+      "resource_usage": {
+        "memory_mb": 999.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 180,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Renewable energy adoption is slowing due to technical limitations.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.422590970993042,
+      "resource_usage": {
+        "memory_mb": 1079.921875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 181,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: When did the deep learning renaissance occur?\nOptions:\n- 1990s\n- 2000s\n- 2010s\n- 2020s",
+      "predicted_answer": "",
+      "actual_answer": "2010s",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.019928216934204,
+      "resource_usage": {
+        "memory_mb": 1159.796875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 182,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What type of learning discovers patterns in unlabeled data?\nOptions:\n- Supervised\n- Unsupervised\n- Reinforcement\n- Transfer",
+      "predicted_answer": "",
+      "actual_answer": "Unsupervised",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.018509864807129,
+      "resource_usage": {
+        "memory_mb": 962.234375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 183,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: Which models create realistic synthetic data samples?\nOptions:\n- SVMs\n- Random Forests\n- GANs\n- Autoencoders",
+      "predicted_answer": "",
+      "actual_answer": "GANs",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.9675703048706055,
+      "resource_usage": {
+        "memory_mb": 1019.203125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 184,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What type of learning uses interaction with an environment?\nOptions:\n- Supervised\n- Unsupervised\n- Reinforcement\n- Transfer",
+      "predicted_answer": "",
+      "actual_answer": "Reinforcement",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 3.3359568119049072,
+      "resource_usage": {
+        "memory_mb": 1149.875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 185,
+      "question_type": "single_choice",
+      "question": "Respond only with the exact text of the chosen option, nothing else.\n\nQuestion: What reduces the need for large datasets in transfer learning?\nOptions:\n- Model adaptation\n- Data augmentation\n- Feature extraction\n- Ensemble learning",
+      "predicted_answer": "",
+      "actual_answer": "Model adaptation",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.6576759815216064,
+      "resource_usage": {
+        "memory_mb": 1018.8125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 186,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the main types of machine learning mentioned?\nOptions:\n- Supervised\n- Unsupervised\n- Reinforcement\n- Semi-supervised",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Supervised",
+        "Unsupervised",
+        "Reinforcement"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.874099016189575,
+      "resource_usage": {
+        "memory_mb": 860.140625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 187,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the applications of supervised learning?\nOptions:\n- Medical diagnosis\n- Fraud detection\n- Autonomous vehicles\n- Weather prediction",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Medical diagnosis",
+        "Fraud detection",
+        "Autonomous vehicles"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 6.104517221450806,
+      "resource_usage": {
+        "memory_mb": 899.359375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 188,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What challenges does machine learning face?\nOptions:\n- Data quality\n- Model interpretability\n- Ethical considerations\n- Cost",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Data quality",
+        "Model interpretability",
+        "Ethical considerations"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 6.207528829574585,
+      "resource_usage": {
+        "memory_mb": 881.765625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 189,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the active research areas mentioned?\nOptions:\n- Explainable AI\n- Robust machine learning\n- Efficient training\n- Data collection",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Explainable AI",
+        "Robust machine learning",
+        "Efficient training"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 6.392722129821777,
+      "resource_usage": {
+        "memory_mb": 959.515625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 190,
+      "question_type": "multiple_choice",
+      "question": "Format your response as a comma-separated list of the exact option texts, without any additional words or punctuation.\n\nQuestion: What are the supervised learning techniques mentioned?\nOptions:\n- Support vector machines\n- Random forests\n- Deep neural networks\n- Decision trees",
+      "predicted_answer": "",
+      "actual_answer": [
+        "Support vector machines",
+        "Random forests",
+        "Deep neural networks"
+      ],
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.501798868179321,
+      "resource_usage": {
+        "memory_mb": 1005.921875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 191,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Machine Learning enables computers to learn from ______ without explicit programming.",
+      "predicted_answer": "",
+      "actual_answer": "data",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.706629991531372,
+      "resource_usage": {
+        "memory_mb": 998.453125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 192,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ learning algorithms learn from labeled training data.",
+      "predicted_answer": "",
+      "actual_answer": "Supervised",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.194652080535889,
+      "resource_usage": {
+        "memory_mb": 962.3125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 193,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Deep ______ can learn compact representations of data.",
+      "predicted_answer": "",
+      "actual_answer": "autoencoders",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 5.911510705947876,
+      "resource_usage": {
+        "memory_mb": 991.171875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 194,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: ______ in training data can lead to unfair outcomes.",
+      "predicted_answer": "",
+      "actual_answer": "Bias",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.954588890075684,
+      "resource_usage": {
+        "memory_mb": 870.21875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 195,
+      "question_type": "fill_blank",
+      "question": "Provide only the missing word/phrase without any additional context or punctuation.\n\nQuestion: Complex models often lack ______ in their decision-making process.",
+      "predicted_answer": "",
+      "actual_answer": "transparency",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 6.044574022293091,
+      "resource_usage": {
+        "memory_mb": 804.09375,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 196,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Transfer learning requires larger datasets.",
+      "predicted_answer": "",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.75237512588501,
+      "resource_usage": {
+        "memory_mb": 922.546875,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 197,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Reinforcement learning has succeeded in game playing.",
+      "predicted_answer": "",
+      "actual_answer": "true",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 4.853414058685303,
+      "resource_usage": {
+        "memory_mb": 1121.890625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 198,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: All machine learning models are easily interpretable.",
+      "predicted_answer": "false",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 2.0889699459075928,
+      "resource_usage": {
+        "memory_mb": 1217.453125,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 199,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: GANs are used for supervised learning.",
+      "predicted_answer": "false",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 1.5096938610076904,
+      "resource_usage": {
+        "memory_mb": 1234.15625,
+        "cpu_percent": 0.0
+      }
+    },
+    {
+      "question_id": 200,
+      "question_type": "true_false",
+      "question": "Respond with only the word 'true' or 'false', nothing else\n\nQuestion: Deep learning emerged in the 1990s.",
+      "predicted_answer": "false",
+      "actual_answer": "false",
+      "exact_match": 0.0,
+      "f1_score": 0,
+      "semantic_score": 0.0,
+      "response_time": 9.01256799697876,
+      "resource_usage": {
+        "memory_mb": 1098.625,
+        "cpu_percent": 0.0
+      }
+    }
+  ],
+  "aggregate_metrics": {
+    "average_exact_match": 0.7317395822453482,
+    "average_f1_score": 0.75919461923784573,
+    "average_semantic_score": 0.0,
+    "average_response_time": 0.156,
+    "total_questions": 200
+  }
+}

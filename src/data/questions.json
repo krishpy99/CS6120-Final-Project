@@ -1,0 +1,1304 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "type": "single_choice",
+            "question": "When did the field of Artificial Intelligence begin?",
+            "options": ["1940s", "1950s", "1960s", "1970s"],
+            "answer": "1950s"
+        },
+        {
+            "id": 2,
+            "type": "single_choice",
+            "question": "What year were transformer models first introduced?",
+            "options": ["2015", "2016", "2017", "2018"],
+            "answer": "2017"
+        },
+        {
+            "id": 3,
+            "type": "single_choice",
+            "question": "Which type of neural network is specifically mentioned for computer vision?",
+            "options": ["Recurrent Neural Networks", "Convolutional Neural Networks", "Transformer Networks", "Feed-forward Networks"],
+            "answer": "Convolutional Neural Networks"
+        },
+        {
+            "id": 4,
+            "type": "single_choice",
+            "question": "What mechanism do transformer models use to understand context?",
+            "options": ["Backpropagation", "Self-attention", "Convolution", "Recursion"],
+            "answer": "Self-attention"
+        },
+        {
+            "id": 5,
+            "type": "single_choice",
+            "question": "Which technology is mentioned as potentially offering new capabilities for AI?",
+            "options": ["Blockchain", "5G", "Cloud Computing", "Quantum Computing"],
+            "answer": "Quantum Computing"
+        },
+        {
+            "id": 6,
+            "type": "multiple_choice",
+            "question": "Which applications are mentioned for modern AI systems?",
+            "options": ["Natural Language Processing", "Image Recognition", "Problem Solving", "Data Storage"],
+            "answer": ["Natural Language Processing", "Image Recognition", "Problem Solving"]
+        },
+        {
+            "id": 7,
+            "type": "multiple_choice",
+            "question": "What are the challenges faced by AI systems?",
+            "options": ["Computational Resources", "Energy Consumption", "Data Bias", "Network Speed"],
+            "answer": ["Computational Resources", "Energy Consumption", "Data Bias"]
+        },
+        {
+            "id": 8,
+            "type": "multiple_choice",
+            "question": "Which areas use CNNs for analysis?",
+            "options": ["Object Detection", "Face Recognition", "Medical Images", "Text Processing"],
+            "answer": ["Object Detection", "Face Recognition", "Medical Images"]
+        },
+        {
+            "id": 9,
+            "type": "multiple_choice",
+            "question": "What are researchers working on improving in AI systems?",
+            "options": ["Interpretability", "Energy Efficiency", "Performance", "Cost"],
+            "answer": ["Interpretability", "Energy Efficiency", "Performance"]
+        },
+        {
+            "id": 10,
+            "type": "multiple_choice",
+            "question": "Which sectors are mentioned as being influenced by AI?",
+            "options": ["Healthcare", "Climate Change", "Education", "Finance"],
+            "answer": ["Healthcare", "Climate Change"]
+        },
+        {
+            "id": 11,
+            "type": "fill_blank",
+            "question": "AI began with simple ______ systems that could perform basic logical operations.",
+            "answer": "rule-based"
+        },
+        {
+            "id": 12,
+            "type": "fill_blank",
+            "question": "Modern AI systems utilize ______ networks and deep learning architectures.",
+            "answer": "neural"
+        },
+        {
+            "id": 13,
+            "type": "fill_blank",
+            "question": "Transformer models employ ______ mechanisms to understand context.",
+            "answer": "self-attention"
+        },
+        {
+            "id": 14,
+            "type": "fill_blank",
+            "question": "AI systems can now detect objects with ______ accuracy.",
+            "answer": "superhuman"
+        },
+        {
+            "id": 15,
+            "type": "fill_blank",
+            "question": "Researchers are working on making AI systems more ______ and energy-efficient.",
+            "answer": "interpretable"
+        },
+        {
+            "id": 16,
+            "type": "true_false",
+            "question": "AI systems require minimal computational resources.",
+            "answer": false
+        },
+        {
+            "id": 17,
+            "type": "true_false",
+            "question": "Transformer models were introduced before 2015.",
+            "answer": false
+        },
+        {
+            "id": 18,
+            "type": "true_false",
+            "question": "CNNs can be used in autonomous vehicles.",
+            "answer": true
+        },
+        {
+            "id": 19,
+            "type": "true_false",
+            "question": "AI systems are completely free from bias.",
+            "answer": false
+        },
+        {
+            "id": 20,
+            "type": "true_false",
+            "question": "Quantum computing is mentioned as a future technology for AI.",
+            "answer": true
+        },
+        {
+            "id": 21,
+            "type": "single_choice",
+            "question": "What is the scale at which quantum physics primarily operates?",
+            "options": ["Planetary", "Molecular", "Atomic and subatomic", "Galactic"],
+            "answer": "Atomic and subatomic"
+        },
+        {
+            "id": 22,
+            "type": "single_choice",
+            "question": "Who described quantum entanglement as 'spooky action at a distance'?",
+            "options": ["Bohr", "Einstein", "Heisenberg", "Schrödinger"],
+            "answer": "Einstein"
+        },
+        {
+            "id": 23,
+            "type": "single_choice",
+            "question": "What type of pattern is created in the double-slit experiment?",
+            "options": ["Diffraction", "Interference", "Reflection", "Refraction"],
+            "answer": "Interference"
+        },
+        {
+            "id": 24,
+            "type": "single_choice",
+            "question": "What quantum property allows qubits to exist in multiple states simultaneously?",
+            "options": ["Entanglement", "Superposition", "Wave-particle duality", "Uncertainty"],
+            "answer": "Superposition"
+        },
+        {
+            "id": 25,
+            "type": "single_choice",
+            "question": "What does the Uncertainty Principle relate to?",
+            "options": ["Energy and time", "Position and momentum", "Mass and velocity", "Charge and spin"],
+            "answer": "Position and momentum"
+        },
+        {
+            "id": 26,
+            "type": "multiple_choice",
+            "question": "Which modern applications of quantum mechanics are mentioned?",
+            "options": ["Quantum computing", "Quantum cryptography", "Quantum sensors", "Quantum teleportation"],
+            "answer": ["Quantum computing", "Quantum cryptography", "Quantum sensors"]
+        },
+        {
+            "id": 27,
+            "type": "multiple_choice",
+            "question": "What characteristics can light and matter display?",
+            "options": ["Wave properties", "Particle properties", "Mass properties", "Charge properties"],
+            "answer": ["Wave properties", "Particle properties"]
+        },
+        {
+            "id": 28,
+            "type": "multiple_choice",
+            "question": "What aspects are affected by the Uncertainty Principle?",
+            "options": ["Position", "Momentum", "Time", "Energy"],
+            "answer": ["Position", "Momentum"]
+        },
+        {
+            "id": 29,
+            "type": "multiple_choice",
+            "question": "What properties make quantum cryptography secure?",
+            "options": ["Superposition", "Entanglement", "Wave-particle duality", "Uncertainty"],
+            "answer": ["Superposition", "Entanglement"]
+        },
+        {
+            "id": 30,
+            "type": "multiple_choice",
+            "question": "What happens when particles are entangled?",
+            "options": ["States become connected", "Measurement affects both particles", "Distance becomes irrelevant", "Independent description impossible"],
+            "answer": ["States become connected", "Measurement affects both particles", "Independent description impossible"]
+        },
+        {
+            "id": 31,
+            "type": "fill_blank",
+            "question": "Quantum mechanics describes nature at the ______ scales of energy levels.",
+            "answer": "smallest"
+        },
+        {
+            "id": 32,
+            "type": "fill_blank",
+            "question": "The ______ experiment demonstrated wave-particle duality.",
+            "answer": "double-slit"
+        },
+        {
+            "id": 33,
+            "type": "fill_blank",
+            "question": "Quantum computers use ______ instead of classical bits.",
+            "answer": "qubits"
+        },
+        {
+            "id": 34,
+            "type": "fill_blank",
+            "question": "The ______ Principle relates position and momentum uncertainty.",
+            "answer": "Heisenberg"
+        },
+        {
+            "id": 35,
+            "type": "fill_blank",
+            "question": "Quantum cryptography creates theoretically ______ encryption systems.",
+            "answer": "unbreakable"
+        },
+        {
+            "id": 36,
+            "type": "true_false",
+            "question": "Quantum particles can exist in multiple states simultaneously.",
+            "answer": true
+        },
+        {
+            "id": 37,
+            "type": "true_false",
+            "question": "The Uncertainty Principle is due to equipment limitations.",
+            "answer": false
+        },
+        {
+            "id": 38,
+            "type": "true_false",
+            "question": "Entangled particles must be close to each other to maintain their connection.",
+            "answer": false
+        },
+        {
+            "id": 39,
+            "type": "true_false",
+            "question": "Light can only behave as a wave, not as a particle.",
+            "answer": false
+        },
+        {
+            "id": 40,
+            "type": "true_false",
+            "question": "Quantum computers can solve some problems faster than classical computers.",
+            "answer": true
+        },
+		{
+            "id": 41,
+            "type": "single_choice",
+            "question": "What was the atmospheric CO2 concentration before the Industrial Revolution?",
+            "options": ["180 ppm", "280 ppm", "380 ppm", "410 ppm"],
+            "answer": "280 ppm"
+        },
+        {
+            "id": 42,
+            "type": "single_choice",
+            "question": "What temperature limit did the Paris Agreement set?",
+            "options": ["1 degree Celsius", "1.5 degrees Celsius", "2 degrees Celsius", "Well below 2 degrees Celsius"],
+            "answer": "Well below 2 degrees Celsius"
+        },
+        {
+            "id": 43,
+            "type": "single_choice",
+            "question": "Which organization synthesizes global climate research?",
+            "options": ["WHO", "IPCC", "UNESCO", "UNEP"],
+            "answer": "IPCC"
+        },
+        {
+            "id": 44,
+            "type": "single_choice",
+            "question": "When was the Paris Agreement signed?",
+            "options": ["2012", "2014", "2015", "2016"],
+            "answer": "2015"
+        },
+        {
+            "id": 45,
+            "type": "single_choice",
+            "question": "What is a consequence of increased CO2 in oceans?",
+            "options": ["Warming", "Acidification", "Evaporation", "Crystallization"],
+            "answer": "Acidification"
+        },
+        {
+            "id": 46,
+            "type": "multiple_choice",
+            "question": "Which extreme weather events are mentioned as becoming more frequent?",
+            "options": ["Hurricanes", "Droughts", "Heat waves", "Tornadoes"],
+            "answer": ["Hurricanes", "Droughts", "Heat waves"]
+        },
+        {
+            "id": 47,
+            "type": "multiple_choice",
+            "question": "What methods do climate scientists use to study climate change?",
+            "options": ["Satellite observations", "Ice core analysis", "Tree ring analysis", "Ocean sampling"],
+            "answer": ["Satellite observations", "Ice core analysis"]
+        },
+        {
+            "id": 48,
+            "type": "multiple_choice",
+            "question": "Which mitigation strategies are mentioned?",
+            "options": ["Renewable energy", "Energy efficiency", "Carbon capture", "Nuclear power"],
+            "answer": ["Renewable energy", "Energy efficiency", "Carbon capture"]
+        },
+        {
+            "id": 49,
+            "type": "multiple_choice",
+            "question": "What nature-based solutions are mentioned?",
+            "options": ["Reforestation", "Wetland restoration", "Urban gardening", "Desert reclamation"],
+            "answer": ["Reforestation", "Wetland restoration"]
+        },
+        {
+            "id": 50,
+            "type": "multiple_choice",
+            "question": "Which adaptation strategies are discussed?",
+            "options": ["Resilient infrastructure", "Water management", "Biodiversity protection", "Urban planning"],
+            "answer": ["Resilient infrastructure", "Water management", "Biodiversity protection"]
+        },
+        {
+            "id": 51,
+            "type": "fill_blank",
+            "question": "The Earth's climate system is undergoing ______ changes.",
+            "answer": "unprecedented"
+        },
+        {
+            "id": 52,
+            "type": "fill_blank",
+            "question": "Rising temperatures have accelerated ______ ice melt.",
+            "answer": "polar"
+        },
+        {
+            "id": 53,
+            "type": "fill_blank",
+            "question": "Many countries aim to achieve carbon ______ by mid-century.",
+            "answer": "neutrality"
+        },
+        {
+            "id": 54,
+            "type": "fill_blank",
+            "question": "Climate change impacts are far-reaching and ______.",
+            "answer": "interconnected"
+        },
+        {
+            "id": 55,
+            "type": "fill_blank",
+            "question": "______ solutions offer dual benefits of carbon sequestration and ecosystem protection.",
+            "answer": "Nature-based"
+        },
+        {
+            "id": 56,
+            "type": "true_false",
+            "question": "Climate change is primarily driven by natural processes.",
+            "answer": false
+        },
+        {
+            "id": 57,
+            "type": "true_false",
+            "question": "The Paris Agreement was signed in 2015.",
+            "answer": true
+        },
+        {
+            "id": 58,
+            "type": "true_false",
+            "question": "All climate change impacts can be prevented with current technology.",
+            "answer": false
+        },
+        {
+            "id": 59,
+            "type": "true_false",
+            "question": "Ocean acidification benefits marine ecosystems.",
+            "answer": false
+        },
+        {
+            "id": 60,
+            "type": "true_false",
+            "question": "Adaptation strategies are necessary alongside mitigation efforts.",
+            "answer": true
+        },
+		{
+            "id": 61,
+            "type": "single_choice",
+            "question": "How many neurons does the human brain contain?",
+            "options": ["76 billion", "86 billion", "96 billion", "106 billion"],
+            "answer": "86 billion"
+        },
+        {
+            "id": 62,
+            "type": "single_choice",
+            "question": "What percentage of the body's energy does the brain use?",
+            "options": ["10%", "15%", "20%", "25%"],
+            "answer": "20%"
+        },
+        {
+            "id": 63,
+            "type": "single_choice",
+            "question": "Which lobe processes visual information?",
+            "options": ["Frontal", "Parietal", "Temporal", "Occipital"],
+            "answer": "Occipital"
+        },
+        {
+            "id": 64,
+            "type": "single_choice",
+            "question": "What percentage of body mass does the brain comprise?",
+            "options": ["1%", "2%", "3%", "4%"],
+            "answer": "2%"
+        },
+        {
+            "id": 65,
+            "type": "single_choice",
+            "question": "Which structure is crucial for memory formation and spatial navigation?",
+            "options": ["Amygdala", "Hypothalamus", "Hippocampus", "Brainstem"],
+            "answer": "Hippocampus"
+        },
+        {
+            "id": 66,
+            "type": "multiple_choice",
+            "question": "Which imaging techniques are mentioned for studying brain function?",
+            "options": ["fMRI", "PET", "CT", "X-ray"],
+            "answer": ["fMRI", "PET"]
+        },
+        {
+            "id": 67,
+            "type": "multiple_choice",
+            "question": "What functions does the brainstem control?",
+            "options": ["Breathing", "Heart rate", "Blood pressure", "Memory"],
+            "answer": ["Breathing", "Heart rate", "Blood pressure"]
+        },
+        {
+            "id": 68,
+            "type": "multiple_choice",
+            "question": "What are the four lobes of the cerebral cortex?",
+            "options": ["Frontal", "Parietal", "Temporal", "Occipital"],
+            "answer": ["Frontal", "Parietal", "Temporal", "Occipital"]
+        },
+        {
+            "id": 69,
+            "type": "multiple_choice",
+            "question": "What does the hypothalamus regulate?",
+            "options": ["Hunger", "Thirst", "Temperature", "Memory"],
+            "answer": ["Hunger", "Thirst", "Temperature"]
+        },
+        {
+            "id": 70,
+            "type": "multiple_choice",
+            "question": "What capabilities does neuroplasticity enable?",
+            "options": ["Learning", "Memory formation", "Injury recovery", "Speech"],
+            "answer": ["Learning", "Memory formation", "Injury recovery"]
+        },
+        {
+            "id": 71,
+            "type": "fill_blank",
+            "question": "The brain contains approximately ______ billion neurons.",
+            "answer": "86"
+        },
+        {
+            "id": 72,
+            "type": "fill_blank",
+            "question": "The ______ is responsible for emotional processing and fear responses.",
+            "answer": "amygdala"
+        },
+        {
+            "id": 73,
+            "type": "fill_blank",
+            "question": "The brain's outer layer is called the ______ cortex.",
+            "answer": "cerebral"
+        },
+        {
+            "id": 74,
+            "type": "fill_blank",
+            "question": "The brain demonstrates remarkable ______, allowing it to form new neural connections.",
+            "answer": "plasticity"
+        },
+        {
+            "id": 75,
+            "type": "fill_blank",
+            "question": "The ______ connects the brain to the spinal cord.",
+            "answer": "brainstem"
+        },
+        {
+            "id": 76,
+            "type": "true_false",
+            "question": "The brain uses 20% of the body's energy.",
+            "answer": true
+        },
+        {
+            "id": 77,
+            "type": "true_false",
+            "question": "The brain cannot form new neural connections in adulthood.",
+            "answer": false
+        },
+        {
+            "id": 78,
+            "type": "true_false",
+            "question": "The temporal lobe processes visual information.",
+            "answer": false
+        },
+        {
+            "id": 79,
+            "type": "true_false",
+            "question": "The brainstem controls breathing and heart rate.",
+            "answer": true
+        },
+        {
+            "id": 80,
+            "type": "true_false",
+            "question": "The hippocampus is responsible for fear responses.",
+            "answer": false
+        },
+		{
+            "id": 81,
+            "type": "single_choice",
+            "question": "When was ENIAC developed?",
+            "options": ["1940", "1945", "1950", "1955"],
+            "answer": "1945"
+        },
+        {
+            "id": 82,
+            "type": "single_choice",
+            "question": "What is the current manufacturing process scale for processors?",
+            "options": ["5-nanometer", "4-nanometer", "3-nanometer", "2-nanometer"],
+            "answer": "3-nanometer"
+        },
+        {
+            "id": 83,
+            "type": "single_choice",
+            "question": "When did Gordon Moore propose his famous law?",
+            "options": ["1960", "1965", "1970", "1975"],
+            "answer": "1965"
+        },
+        {
+            "id": 84,
+            "type": "single_choice",
+            "question": "What type of computing processes data closer to its source?",
+            "options": ["Cloud computing", "Edge computing", "Quantum computing", "Neuromorphic computing"],
+            "answer": "Edge computing"
+        },
+        {
+            "id": 85,
+            "type": "single_choice",
+            "question": "What did the first electronic computer use?",
+            "options": ["Transistors", "Vacuum tubes", "Integrated circuits", "Microprocessors"],
+            "answer": "Vacuum tubes"
+        },
+        {
+            "id": 86,
+            "type": "multiple_choice",
+            "question": "Which quantum phenomena are mentioned for quantum computing?",
+            "options": ["Superposition", "Entanglement", "Interference", "Tunneling"],
+            "answer": ["Superposition", "Entanglement"]
+        },
+        {
+            "id": 87,
+            "type": "multiple_choice",
+            "question": "What are the benefits of edge computing?",
+            "options": ["Reduced latency", "Reduced bandwidth usage", "Increased security", "Lower cost"],
+            "answer": ["Reduced latency", "Reduced bandwidth usage"]
+        },
+        {
+            "id": 88,
+            "type": "multiple_choice",
+            "question": "What types of cybersecurity threats are mentioned?",
+            "options": ["Viruses", "Ransomware", "State-sponsored attacks", "Phishing"],
+            "answer": ["Viruses", "Ransomware", "State-sponsored attacks"]
+        },
+        {
+            "id": 89,
+            "type": "multiple_choice",
+            "question": "What has cloud computing enabled?",
+            "options": ["Big data analytics", "Artificial intelligence", "Machine learning", "Web browsing"],
+            "answer": ["Big data analytics", "Artificial intelligence", "Machine learning"]
+        },
+        {
+            "id": 90,
+            "type": "multiple_choice",
+            "question": "What security measures are mentioned?",
+            "options": ["Encryption technologies", "Secure protocols", "Hardware security", "Firewalls"],
+            "answer": ["Encryption technologies", "Secure protocols", "Hardware security"]
+        },
+        {
+            "id": 91,
+            "type": "fill_blank",
+            "question": "Moore's Law predicts transistor count doubling every ______ years.",
+            "answer": "two"
+        },
+        {
+            "id": 92,
+            "type": "fill_blank",
+            "question": "______ computing aims to mimic the brain's neural architecture.",
+            "answer": "Neuromorphic"
+        },
+        {
+            "id": 93,
+            "type": "fill_blank",
+            "question": "ENIAC filled an entire ______ when it was built.",
+            "answer": "room"
+        },
+        {
+            "id": 94,
+            "type": "fill_blank",
+            "question": "Modern processors contain ______ of nanoscale transistors.",
+            "answer": "billions"
+        },
+        {
+            "id": 95,
+            "type": "fill_blank",
+            "question": "______ computing has revolutionized data storage and processing.",
+            "answer": "Cloud"
+        },
+        {
+            "id": 96,
+            "type": "true_false",
+            "question": "ENIAC was developed in 1945.",
+            "answer": true
+        },
+        {
+            "id": 97,
+            "type": "true_false",
+            "question": "Edge computing increases network latency.",
+            "answer": false
+        },
+        {
+            "id": 98,
+            "type": "true_false",
+            "question": "Quantum computers use superposition and entanglement.",
+            "answer": true
+        },
+        {
+            "id": 99,
+            "type": "true_false",
+            "question": "Modern processors use vacuum tubes.",
+            "answer": false
+        },
+        {
+            "id": 100,
+            "type": "true_false",
+            "question": "Cloud computing requires local hardware for all processing.",
+            "answer": false
+        },
+		{
+            "id": 101,
+            "type": "single_choice",
+            "question": "What are the two main components of the immune system?",
+            "options": ["Cellular and humoral", "Innate and adaptive", "Primary and secondary", "Active and passive"],
+            "answer": "Innate and adaptive"
+        },
+        {
+            "id": 102,
+            "type": "single_choice",
+            "question": "Which cells produce antibodies?",
+            "options": ["T cells", "B cells", "Natural killer cells", "Macrophages"],
+            "answer": "B cells"
+        },
+        {
+            "id": 103,
+            "type": "single_choice",
+            "question": "What is a key feature of innate immunity?",
+            "options": ["Antibody production", "Inflammatory response", "Memory formation", "Specific targeting"],
+            "answer": "Inflammatory response"
+        },
+        {
+            "id": 104,
+            "type": "single_choice",
+            "question": "Which system provides immediate but non-specific defense?",
+            "options": ["Adaptive immune system", "Innate immune system", "Lymphatic system", "Endocrine system"],
+            "answer": "Innate immune system"
+        },
+        {
+            "id": 105,
+            "type": "single_choice",
+            "question": "What type of vaccine instructs cells to produce viral proteins?",
+            "options": ["Inactivated vaccines", "Live attenuated vaccines", "mRNA vaccines", "Subunit vaccines"],
+            "answer": "mRNA vaccines"
+        },
+        {
+            "id": 106,
+            "type": "multiple_choice",
+            "question": "Which cells are part of the innate immune system?",
+            "options": ["Neutrophils", "Macrophages", "Natural killer cells", "B cells"],
+            "answer": ["Neutrophils", "Macrophages", "Natural killer cells"]
+        },
+        {
+            "id": 107,
+            "type": "multiple_choice",
+            "question": "What are physical barriers of the immune system?",
+            "options": ["Skin", "Mucous membranes", "Blood vessels", "Bones"],
+            "answer": ["Skin", "Mucous membranes"]
+        },
+        {
+            "id": 108,
+            "type": "multiple_choice",
+            "question": "What are the types of immune system disorders mentioned?",
+            "options": ["Autoimmune diseases", "Immunodeficiencies", "Allergies", "Cancer"],
+            "answer": ["Autoimmune diseases", "Immunodeficiencies"]
+        },
+        {
+            "id": 109,
+            "type": "multiple_choice",
+            "question": "What are traditional vaccine approaches?",
+            "options": ["Weakened pathogens", "Inactivated pathogens", "Synthetic proteins", "Genetic material"],
+            "answer": ["Weakened pathogens", "Inactivated pathogens"]
+        },
+        {
+            "id": 110,
+            "type": "multiple_choice",
+            "question": "What conditions can immunotherapies treat?",
+            "options": ["Allergies", "Cancer", "Autoimmune diseases", "Infections"],
+            "answer": ["Allergies", "Cancer"]
+        },
+        {
+            "id": 111,
+            "type": "fill_blank",
+            "question": "The ______ immune system provides immediate but non-specific defense.",
+            "answer": "innate"
+        },
+        {
+            "id": 112,
+            "type": "fill_blank",
+            "question": "______ cells are created after initial exposure to a pathogen.",
+            "answer": "Memory"
+        },
+        {
+            "id": 113,
+            "type": "fill_blank",
+            "question": "______ cells directly attack infected cells and regulate immune responses.",
+            "answer": "T"
+        },
+        {
+            "id": 114,
+            "type": "fill_blank",
+            "question": "The inflammatory response helps contain infections through increased ______ flow.",
+            "answer": "blood"
+        },
+        {
+            "id": 115,
+            "type": "fill_blank",
+            "question": "______ diseases occur when the body attacks its own tissues.",
+            "answer": "Autoimmune"
+        },
+        {
+            "id": 116,
+            "type": "true_false",
+            "question": "B cells produce antibodies specific to particular pathogens.",
+            "answer": true
+        },
+        {
+            "id": 117,
+            "type": "true_false",
+            "question": "The adaptive immune system evolved before the innate immune system.",
+            "answer": false
+        },
+        {
+            "id": 118,
+            "type": "true_false",
+            "question": "Vaccines can only use weakened or inactivated pathogens.",
+            "answer": false
+        },
+        {
+            "id": 119,
+            "type": "true_false",
+            "question": "Memory cells enable faster responses to subsequent pathogen encounters.",
+            "answer": true
+        },
+        {
+            "id": 120,
+            "type": "true_false",
+            "question": "Immunotherapies can only suppress immune responses.",
+            "answer": false
+		},
+        {
+            "id": 121,
+            "type": "single_choice",
+            "question": "When was the first human spaceflight?",
+            "options": ["1957", "1961", "1969", "1975"],
+            "answer": "1961"
+        },
+        {
+            "id": 122,
+            "type": "single_choice",
+            "question": "At what altitude does the ISS orbit Earth?",
+            "options": ["300 kilometers", "400 kilometers", "500 kilometers", "600 kilometers"],
+            "answer": "400 kilometers"
+        },
+        {
+            "id": 123,
+            "type": "single_choice",
+            "question": "How many orbits does the ISS complete per day?",
+            "options": ["12.5", "13.5", "14.5", "15.5"],
+            "answer": "15.5"
+        },
+        {
+            "id": 124,
+            "type": "single_choice",
+            "question": "Since when has the ISS been continuously occupied?",
+            "options": ["1998", "1999", "2000", "2001"],
+            "answer": "2000"
+        },
+        {
+            "id": 125,
+            "type": "single_choice",
+            "question": "Which rover is mentioned as studying Mars?",
+            "options": ["Curiosity", "Opportunity", "Perseverance", "Spirit"],
+            "answer": "Perseverance"
+        },
+        {
+            "id": 126,
+            "type": "multiple_choice",
+            "question": "Which private companies are mentioned in space exploration?",
+            "options": ["SpaceX", "Blue Origin", "Virgin Galactic", "Boeing"],
+            "answer": ["SpaceX", "Blue Origin", "Virgin Galactic"]
+        },
+        {
+            "id": 127,
+            "type": "multiple_choice",
+            "question": "What challenges are mentioned for Mars missions?",
+            "options": ["Radiation protection", "Resource utilization", "Psychological effects", "Cost"],
+            "answer": ["Radiation protection", "Resource utilization", "Psychological effects"]
+        },
+        {
+            "id": 128,
+            "type": "multiple_choice",
+            "question": "Which space telescopes are mentioned?",
+            "options": ["Hubble", "James Webb", "Spitzer", "Chandra"],
+            "answer": ["Hubble", "James Webb"]
+        },
+        {
+            "id": 129,
+            "type": "multiple_choice",
+            "question": "What Earth applications of space technology are mentioned?",
+            "options": ["Satellite communications", "GPS", "Weather forecasting", "Internet"],
+            "answer": ["Satellite communications", "GPS", "Weather forecasting"]
+        },
+        {
+            "id": 130,
+            "type": "multiple_choice",
+            "question": "What advanced propulsion technologies are mentioned?",
+            "options": ["Ion engines", "Nuclear propulsion", "Chemical rockets", "Solar sails"],
+            "answer": ["Ion engines", "Nuclear propulsion"]
+        },
+        {
+            "id": 131,
+            "type": "fill_blank",
+            "question": "______ was the first human to orbit Earth.",
+            "answer": "Yuri Gagarin"
+        },
+        {
+            "id": 132,
+            "type": "fill_blank",
+            "question": "The ISS serves as humanity's primary ______ research laboratory.",
+            "answer": "orbital"
+        },
+        {
+            "id": 133,
+            "type": "fill_blank",
+            "question": "Space telescopes provide views without ______ interference.",
+            "answer": "atmospheric"
+        },
+        {
+            "id": 134,
+            "type": "fill_blank",
+            "question": "Modern rockets are ______, reducing launch costs.",
+            "answer": "reusable"
+        },
+        {
+            "id": 135,
+            "type": "fill_blank",
+            "question": "______ has become a central focus of space agencies worldwide.",
+            "answer": "Mars exploration"
+        },
+        {
+            "id": 136,
+            "type": "true_false",
+            "question": "The ISS orbits Earth at 400 kilometers altitude.",
+            "answer": true
+        },
+        {
+            "id": 137,
+            "type": "true_false",
+            "question": "Space exploration is still exclusively conducted by governments.",
+            "answer": false
+        },
+        {
+            "id": 138,
+            "type": "true_false",
+            "question": "The Perseverance rover is exploring Mars.",
+            "answer": true
+        },
+        {
+            "id": 139,
+            "type": "true_false",
+            "question": "Space telescopes are affected by atmospheric interference.",
+            "answer": false
+        },
+        {
+            "id": 140,
+            "type": "true_false",
+            "question": "GPS is an application of space technology.",
+            "answer": true
+        },
+		{
+            "id": 141,
+            "type": "single_choice",
+            "question": "When was the World Wide Web developed?",
+            "options": ["1985", "1987", "1989", "1991"],
+            "answer": "1989"
+        },
+        {
+            "id": 142,
+            "type": "single_choice",
+            "question": "Who developed the World Wide Web?",
+            "options": ["Steve Jobs", "Bill Gates", "Tim Berners-Lee", "Vint Cerf"],
+            "answer": "Tim Berners-Lee"
+        },
+        {
+            "id": 143,
+            "type": "single_choice",
+            "question": "Where was the World Wide Web developed?",
+            "options": ["MIT", "CERN", "Stanford", "Berkeley"],
+            "answer": "CERN"
+        },
+        {
+            "id": 144,
+            "type": "single_choice",
+            "question": "What was the Internet's predecessor called?",
+            "options": ["MILNET", "ARPANET", "NSFNET", "CSNET"],
+            "answer": "ARPANET"
+        },
+        {
+            "id": 145,
+            "type": "single_choice",
+            "question": "What system translates website addresses to IP addresses?",
+            "options": ["TCP/IP", "HTTP", "DNS", "FTP"],
+            "answer": "DNS"
+        },
+        {
+            "id": 146,
+            "type": "multiple_choice",
+            "question": "Which web development frameworks are mentioned?",
+            "options": ["React", "Angular", "Vue", "Django"],
+            "answer": ["React", "Angular"]
+        },
+        {
+            "id": 147,
+            "type": "multiple_choice",
+            "question": "What cybersecurity threats are mentioned?",
+            "options": ["Malware", "Phishing", "Data breaches", "Spam"],
+            "answer": ["Malware", "Phishing", "Data breaches"]
+        },
+        {
+            "id": 148,
+            "type": "multiple_choice",
+            "question": "What emerging technologies are mentioned?",
+            "options": ["5G networks", "IoT devices", "Blockchain", "AI"],
+            "answer": ["5G networks", "IoT devices", "Blockchain"]
+        },
+        {
+            "id": 149,
+            "type": "multiple_choice",
+            "question": "What components make up Internet infrastructure?",
+            "options": ["Fiber optic cables", "Satellites", "Routing equipment", "Computers"],
+            "answer": ["Fiber optic cables", "Satellites", "Routing equipment"]
+        },
+        {
+            "id": 150,
+            "type": "multiple_choice",
+            "question": "What challenges does the Internet face?",
+            "options": ["Digital divide", "Net neutrality", "Cybersecurity", "Cost"],
+            "answer": ["Digital divide", "Net neutrality", "Cybersecurity"]
+        },
+        {
+            "id": 151,
+            "type": "fill_blank",
+            "question": "The Internet became widespread in the ______.",
+            "answer": "1990s"
+        },
+        {
+            "id": 152,
+            "type": "fill_blank",
+            "question": "______ protect data transmission on the Internet.",
+            "answer": "Encryption protocols"
+        },
+        {
+            "id": 153,
+            "type": "fill_blank",
+            "question": "______ distribute data globally to reduce latency.",
+            "answer": "CDNs"
+        },
+        {
+            "id": 154,
+            "type": "fill_blank",
+            "question": "The Internet uses the ______ protocol suite.",
+            "answer": "TCP/IP"
+        },
+        {
+            "id": 155,
+            "type": "fill_blank",
+            "question": "______ enable integration between different services.",
+            "answer": "APIs"
+        },
+        {
+            "id": 156,
+            "type": "true_false",
+            "question": "The Internet began as a U.S. Department of Defense project.",
+            "answer": true
+        },
+        {
+            "id": 157,
+            "type": "true_false",
+            "question": "Modern websites only use static HTML pages.",
+            "answer": false
+        },
+        {
+            "id": 158,
+            "type": "true_false",
+            "question": "HTTPS is an encryption protocol.",
+            "answer": true
+        },
+        {
+            "id": 159,
+            "type": "true_false",
+            "question": "The digital divide is no longer a concern.",
+            "answer": false
+        },
+        {
+            "id": 160,
+            "type": "true_false",
+            "question": "CDNs increase website latency.",
+            "answer": false
+        },
+		{
+            "id": 161,
+            "type": "single_choice",
+            "question": "By how much has the cost of solar panels dropped since 2010?",
+            "options": ["60%", "70%", "80%", "90%"],
+            "answer": "80%"
+        },
+        {
+            "id": 162,
+            "type": "single_choice",
+            "question": "What is the typical efficiency rate of modern solar panels?",
+            "options": ["Above 10%", "Above 15%", "Above 20%", "Above 25%"],
+            "answer": "Above 20%"
+        },
+        {
+            "id": 163,
+            "type": "single_choice",
+            "question": "What height can modern wind turbines reach?",
+            "options": ["50 meters", "100 meters", "150 meters", "200 meters"],
+            "answer": "150 meters"
+        },
+        {
+            "id": 164,
+            "type": "single_choice",
+            "question": "Which renewable energy source is currently the largest globally?",
+            "options": ["Solar", "Wind", "Hydroelectric", "Geothermal"],
+            "answer": "Hydroelectric"
+        },
+        {
+            "id": 165,
+            "type": "single_choice",
+            "question": "What makes offshore wind farms increasingly popular?",
+            "options": ["Lower costs", "Easier maintenance", "Stronger winds", "Less space required"],
+            "answer": "Stronger winds"
+        },
+        {
+            "id": 166,
+            "type": "multiple_choice",
+            "question": "What types of renewable energy are mentioned?",
+            "options": ["Solar", "Wind", "Hydroelectric", "Nuclear"],
+            "answer": ["Solar", "Wind", "Hydroelectric"]
+        },
+        {
+            "id": 167,
+            "type": "multiple_choice",
+            "question": "What challenges does renewable energy face?",
+            "options": ["Grid integration", "Energy storage", "Infrastructure costs", "Maintenance"],
+            "answer": ["Grid integration", "Energy storage", "Infrastructure costs"]
+        },
+        {
+            "id": 168,
+            "type": "multiple_choice",
+            "question": "What types of hydroelectric systems are mentioned?",
+            "options": ["Traditional dams", "Run-of-river", "Pumped storage", "Tidal"],
+            "answer": ["Traditional dams", "Run-of-river", "Pumped storage"]
+        },
+        {
+            "id": 169,
+            "type": "multiple_choice",
+            "question": "What helps integrate variable wind power into the grid?",
+            "options": ["Smart grid technologies", "Weather forecasting", "Energy storage", "Backup generators"],
+            "answer": ["Smart grid technologies", "Weather forecasting"]
+        },
+        {
+            "id": 170,
+            "type": "multiple_choice",
+            "question": "What factors are accelerating renewable energy adoption?",
+            "options": ["Technological improvements", "Declining costs", "Supportive policies", "Public demand"],
+            "answer": ["Technological improvements", "Declining costs", "Supportive policies"]
+        },
+        {
+            "id": 171,
+            "type": "fill_blank",
+            "question": "Solar energy harnesses the sun's ______ through photovoltaic cells.",
+            "answer": "radiation"
+        },
+        {
+            "id": 172,
+            "type": "fill_blank",
+            "question": "______ help address solar power's intermittency.",
+            "answer": "Energy storage solutions"
+        },
+        {
+            "id": 173,
+            "type": "fill_blank",
+            "question": "Wind turbines can generate several ______ of power each.",
+            "answer": "megawatts"
+        },
+        {
+            "id": 174,
+            "type": "fill_blank",
+            "question": "Traditional hydroelectric ______ can impact ecosystems.",
+            "answer": "dams"
+        },
+        {
+            "id": 175,
+            "type": "fill_blank",
+            "question": "______ systems combine multiple renewable sources with storage solutions.",
+            "answer": "Hybrid"
+        },
+        {
+            "id": 176,
+            "type": "true_false",
+            "question": "Solar panel costs have increased since 2010.",
+            "answer": false
+        },
+        {
+            "id": 177,
+            "type": "true_false",
+            "question": "Offshore wind farms have weaker wind patterns than onshore.",
+            "answer": false
+        },
+        {
+            "id": 178,
+            "type": "true_false",
+            "question": "Hydroelectric power is currently the largest renewable energy source.",
+            "answer": true
+        },
+        {
+            "id": 179,
+            "type": "true_false",
+            "question": "Run-of-river systems are more environmentally friendly than traditional dams.",
+            "answer": true
+        },
+        {
+            "id": 180,
+            "type": "true_false",
+            "question": "Renewable energy adoption is slowing due to technical limitations.",
+            "answer": false
+        },
+		{
+            "id": 181,
+            "type": "single_choice",
+            "question": "When did the deep learning renaissance occur?",
+            "options": ["1990s", "2000s", "2010s", "2020s"],
+            "answer": "2010s"
+        },
+        {
+            "id": 182,
+            "type": "single_choice",
+            "question": "What type of learning discovers patterns in unlabeled data?",
+            "options": ["Supervised", "Unsupervised", "Reinforcement", "Transfer"],
+            "answer": "Unsupervised"
+        },
+        {
+            "id": 183,
+            "type": "single_choice",
+            "question": "Which models create realistic synthetic data samples?",
+            "options": ["SVMs", "Random Forests", "GANs", "Autoencoders"],
+            "answer": "GANs"
+        },
+        {
+            "id": 184,
+            "type": "single_choice",
+            "question": "What type of learning uses interaction with an environment?",
+            "options": ["Supervised", "Unsupervised", "Reinforcement", "Transfer"],
+            "answer": "Reinforcement"
+        },
+        {
+            "id": 185,
+            "type": "single_choice",
+            "question": "What reduces the need for large datasets in transfer learning?",
+            "options": ["Model adaptation", "Data augmentation", "Feature extraction", "Ensemble learning"],
+            "answer": "Model adaptation"
+        },
+        {
+            "id": 186,
+            "type": "multiple_choice",
+            "question": "What are the main types of machine learning mentioned?",
+            "options": ["Supervised", "Unsupervised", "Reinforcement", "Semi-supervised"],
+            "answer": ["Supervised", "Unsupervised", "Reinforcement"]
+        },
+        {
+            "id": 187,
+            "type": "multiple_choice",
+            "question": "What are the applications of supervised learning?",
+            "options": ["Medical diagnosis", "Fraud detection", "Autonomous vehicles", "Weather prediction"],
+            "answer": ["Medical diagnosis", "Fraud detection", "Autonomous vehicles"]
+        },
+        {
+            "id": 188,
+            "type": "multiple_choice",
+            "question": "What challenges does machine learning face?",
+            "options": ["Data quality", "Model interpretability", "Ethical considerations", "Cost"],
+            "answer": ["Data quality", "Model interpretability", "Ethical considerations"]
+        },
+        {
+            "id": 189,
+            "type": "multiple_choice",
+            "question": "What are the active research areas mentioned?",
+            "options": ["Explainable AI", "Robust machine learning", "Efficient training", "Data collection"],
+            "answer": ["Explainable AI", "Robust machine learning", "Efficient training"]
+        },
+        {
+            "id": 190,
+            "type": "multiple_choice",
+            "question": "What are the supervised learning techniques mentioned?",
+            "options": ["Support vector machines", "Random forests", "Deep neural networks", "Decision trees"],
+            "answer": ["Support vector machines", "Random forests", "Deep neural networks"]
+        },
+        {
+            "id": 191,
+            "type": "fill_blank",
+            "question": "Machine Learning enables computers to learn from ______ without explicit programming.",
+            "answer": "data"
+        },
+        {
+            "id": 192,
+            "type": "fill_blank",
+            "question": "______ learning algorithms learn from labeled training data.",
+            "answer": "Supervised"
+        },
+        {
+            "id": 193,
+            "type": "fill_blank",
+            "question": "Deep ______ can learn compact representations of data.",
+            "answer": "autoencoders"
+        },
+        {
+            "id": 194,
+            "type": "fill_blank",
+            "question": "______ in training data can lead to unfair outcomes.",
+            "answer": "Bias"
+        },
+        {
+            "id": 195,
+            "type": "fill_blank",
+            "question": "Complex models often lack ______ in their decision-making process.",
+            "answer": "transparency"
+        },
+        {
+            "id": 196,
+            "type": "true_false",
+            "question": "Transfer learning requires larger datasets.",
+            "answer": false
+        },
+        {
+            "id": 197,
+            "type": "true_false",
+            "question": "Reinforcement learning has succeeded in game playing.",
+            "answer": true
+        },
+        {
+            "id": 198,
+            "type": "true_false",
+            "question": "All machine learning models are easily interpretable.",
+            "answer": false
+        },
+        {
+            "id": 199,
+            "type": "true_false",
+            "question": "GANs are used for supervised learning.",
+            "answer": false
+        },
+        {
+            "id": 200,
+            "type": "true_false",
+            "question": "Deep learning emerged in the 1990s.",
+            "answer": false
+        }
+    ]
+}
